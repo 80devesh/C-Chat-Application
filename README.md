@@ -22,16 +22,3 @@ This project is a basic multi-client chat application implemented in C++ using W
 - Prompts the user for a unique chat name upon connection.
 - Displays incoming messages from other clients in real-time.
 
-## How to Run
-
-### Prerequisites
-
-- Windows operating system
-- Visual Studio or any other C++ compiler that supports Winsock2
-
-### Build Instructions
-
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/yourusername/simple-cpp-chat-app.git
-   cd simple-cpp-chat-app
